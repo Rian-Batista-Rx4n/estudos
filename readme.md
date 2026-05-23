@@ -10,7 +10,15 @@ Atualmente o projeto está em **fase de organização e migração**, onde estou
 
 ## 🧩 Estrutura Geral do Repositório
 
+<<<<<<< HEAD
 ### 🟦 **1. Linguagens**
+=======
+O repositório está dividido em três grandes áreas de conhecimento:
+
+---
+
+### 🟦 **1. Programação**
+>>>>>>> dc5efeeae6fd1c0ff5c49b8064e50e50ee9f948a
 
 Aqui estão minhas anotações sobre linguagens e ferramentas de desenvolvimento que utilizo no dia a dia.
 
@@ -22,6 +30,7 @@ Cada linguagem possui uma estrutura própria, contendo:
 - Exercícios  
 - Projetos
 
+<<<<<<< HEAD
 Linguagens atualmente registradas (Marcadas como **Iniciadas**):
 
 - [x] **Markdown**
@@ -33,6 +42,20 @@ Linguagens atualmente registradas (Marcadas como **Iniciadas**):
 - [ ] **DAX**
 - [ ] **M (Power Query)**
 - [ ] **MySQL**
+=======
+Linguagens atualmente registradas:
+
+- **Python3**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **Bash**
+- **DAX**
+- **M (Power Query)**
+- **MySQL**
+
+---
+>>>>>>> dc5efeeae6fd1c0ff5c49b8064e50e50ee9f948a
 
 ### 🟩 **2. Sistemas**
 
@@ -49,6 +72,11 @@ Subcategorias principais:
 - **Software**
 - **Linux**
 
+<<<<<<< HEAD
+=======
+---
+
+>>>>>>> dc5efeeae6fd1c0ff5c49b8064e50e50ee9f948a
 ### 🟥 **3. Redes**
 
 Conteúdos relacionados à comunicação entre computadores, protocolos e segurança.
@@ -59,6 +87,7 @@ Inclui:
 - Conceitos de redes de computadores
 - Introdução à segurança e ameaças comuns
 
+<<<<<<< HEAD
 Subpastas (Marcadas como **Iniciadas**):
 
 - [ ] **IPv4**
@@ -70,6 +99,13 @@ Lugar para encontrar outras tecnologia e exploraras abrangindo todos os outros 3
 
 Inclui (Marcadas como **Iniciadas**):
 - [ ] Raspberry Pi
+=======
+Subpastas:
+
+- **IPv4**
+- **Redes de Computadores**
+- **Cyber Segurança** (a ser expandido)
+>>>>>>> dc5efeeae6fd1c0ff5c49b8064e50e50ee9f948a
 
 ---
 
@@ -79,7 +115,11 @@ Inclui (Marcadas como **Iniciadas**):
 - Criar minha **própria documentação técnica**, inspirada em materiais profissionais  
 - Revisar e evoluir constantemente minhas anotações  
 - Registrar a minha jornada como programador e profissional de TI  
+<<<<<<< HEAD
 - Criar futuramente um **documento mais completo**, mais bonito e estilizado.
+=======
+- Criar futuramente um **documento mais completo**, mais bonito e estilizado usando HTML + CSS
+>>>>>>> dc5efeeae6fd1c0ff5c49b8064e50e50ee9f948a
 
 ---
 
